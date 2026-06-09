@@ -110,16 +110,9 @@ export function Contact() {
         {/* Bottom */}
         <div className="mt-16 pt-8 border-t border-primary-foreground/20 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-primary-foreground/60 text-sm">
-            © 2024 Olivar. Todos los derechos reservados.
+            © 2026 Olivar. Todos los derechos reservados.
           </p>
-          <div className="flex items-center gap-6 text-sm">
-            <Link href="#" className="text-primary-foreground/60 hover:text-primary-foreground transition-colors">
-              Política de Privacidad
-            </Link>
-            <Link href="#" className="text-primary-foreground/60 hover:text-primary-foreground transition-colors">
-              Aviso Legal
-            </Link>
-          </div>
+          
         </div>
       </div>
     </section>
